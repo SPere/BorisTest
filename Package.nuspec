@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.1.0</version>
+    <authors>spere</authors>
+    <owners>spere</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Boris Package</description>
+    <releaseNotes>This is a Boris test package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+</package>
